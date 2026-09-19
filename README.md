@@ -60,8 +60,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityakumarsingh776199-alt/adityakumarsingh776199-alt/output/github-contribution-grid-snake.svg" alt="snake animation" />
+![snake gif](https://raw.githubusercontent.com/adityakumarsingh776199-alt/adityakumarsingh776199-alt/output/github-contribution-grid-snake.svg)alt="snake animation" />
 </p>
+
 
 > ⚠️ This snake animation requires a one-time GitHub Actions setup (instructions below) — it "eats" your contribution squares as an animation.
 
