@@ -66,8 +66,16 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumarsingh776199-alt&show_icons=true&locale=en&layout=compact" alt="adityakumarsingh776199-alt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh776199-alt&show_icons=true&locale=en" alt="adityakumarsingh776199-alt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumarsingh776199-alt" alt="adityakumarsingh776199-alt" /></p>
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakumarsingh776199-alt/adityakumarsingh776199-alt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakumarsingh776199-alt/adityakumarsingh776199-alt/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adityakumarsingh776199-alt/adityakumarsingh776199-alt/output/github-contribution-grid-snake.svg">
+</picture>
