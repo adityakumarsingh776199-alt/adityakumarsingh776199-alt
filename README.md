@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adityakumarsingh776199-alt/photo/main/data-scientist-worker-minimal-infographic-banner.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/adityakumarsingh776199-alt/photo/main/data-scientist-worker-minimal-infographic-banner-vector-2BFEJ17.jpg" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;Learning+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Open+to+collaborations+%26+internships+%E2%9C%A8" alt="Typing SVG" /></a>
 
