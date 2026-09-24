@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20Aditya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/adityakumarsingh776199-alt/photo/main/data-scientist-worker-minimal-infographic-banner.jpg" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;Learning+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Open+to+collaborations+%26+internships+%E2%9C%A8" alt="Typing SVG" /></a>
 
@@ -92,7 +92,3 @@
 <a href="https://instagram.com/suryavanshi_adityaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:adityakumarsingh776199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
